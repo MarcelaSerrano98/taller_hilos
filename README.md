@@ -68,6 +68,3 @@ Rojo-2 recibe el testigo...
 
 ---
 
-```
-
-```
